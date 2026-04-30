@@ -8,8 +8,6 @@ CS + Economics junior at Texas A&M (graduating Spring 2027). I work at the inter
 
 **Hallucination Detection in Diffusion Models** — SULI Research Intern at Brookhaven National Laboratory under Dr. Xihaier Luo. Developing methods to detect when scientific image generation models produce unfaithful outputs, using trajectory variance analysis and conformal prediction. Python, PyTorch, SLURM on BNL's HPC cluster.
 
-**NERPU** — Solo founder building a 7-app Android productivity suite (Habit Tracker, Focus Timer, Spaced Repetition, Journal, Sleep Tracker, App Blocker, Planner Hub). Stack: SvelteKit + Capacitor + Supabase.
-
 ---
 
 ## Highlights
