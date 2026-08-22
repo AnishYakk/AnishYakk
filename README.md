@@ -26,5 +26,5 @@ Python, PyTorch, Java, C#, JavaScript/SvelteKit, SQL, MATLAB, SLURM/HPC
 
 ## Links
 
-- LinkedIn: [Anish Yakkanti](https://linkedin.com/in/anishyakkanti)
+- LinkedIn: [Anish Yakkanti](https://www.linkedin.com/in/anish-yakkanti/)
 - Email: yakk@tamu.edu
