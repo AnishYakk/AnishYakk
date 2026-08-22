@@ -1,12 +1,12 @@
 # Anish Yakkanti
 
-CS + Economics junior at Texas A&M (graduating Spring 2027). I work at the intersection of applied ML research, systems-level software, and product.
+CS + Economics senior at Texas A&M (graduating Spring 2027).
 
 ---
 
 ## What I'm Working On
 
-**Hallucination Detection in Diffusion Models** — SULI Research Intern at Brookhaven National Laboratory under Dr. Xihaier Luo. Developing methods to detect when scientific image generation models produce unfaithful outputs, using trajectory variance analysis and conformal prediction. Python, PyTorch, SLURM on BNL's HPC cluster.
+**Hallucination Detection in Diffusion Models** — SULI Research Intern at Brookhaven National Laboratory under Dr. Xihaier Luo. Developing methods to detect when scientific image generation models produce unfaithful outputs, using Dynamical INR's. Python, PyTorch, SLURM on BNL's HPC cluster.
 
 ---
 
