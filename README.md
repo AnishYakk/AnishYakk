@@ -6,7 +6,7 @@ CS + Economics senior at Texas A&M (graduating Spring 2027).
 
 ## What I'm Working On
 
-**Hallucination Detection in Diffusion Models** — SULI Research Intern at Brookhaven National Laboratory under Dr. Xihaier Luo. Developing methods to detect when scientific image generation models produce unfaithful outputs, using Dynamical INR's. Python, PyTorch, SLURM on BNL's HPC cluster.
+**Uncertainty Quantification in AI models** — SULI Research Intern at Brookhaven National Laboratory under Dr. Xihaier Luo. Developing methods to detect when scientific fields models produce unfaithful outputs, using Dynamical INR's. Python, PyTorch, SLURM on BNL's HPC cluster.
 
 ---
 
